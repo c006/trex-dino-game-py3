@@ -2,6 +2,28 @@
 Dino game bot using python3.8
 
 ---
+
+**Juptyper Lab**  
+[Jupter Get Started](https://jupyter.readthedocs.io/en/latest/tryjupyter.html)
+
+My Setup  
+Windows 8.1 x64  
+Python 3.7  
+pip3  
+
+`pip3 install jupyterlab`
+
+---
+
+Windows .bat for easy launching  
+
+Add to Jupyter folder 
+`start_jupyter.bat`
+  
+Then type `jupyter lab`
+
+---
+
 Most of the code should be self explantory. Here are some the may need explaining
 
 ```
