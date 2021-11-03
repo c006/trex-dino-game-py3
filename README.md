@@ -1,5 +1,5 @@
 # trex-dino-game-py3
-Dino game bot using python3.x
+Dino game bot using python3.x -- no AI
 
 ---
 
@@ -69,7 +69,10 @@ I tried to have the dino land just after the obsticles to begin with
 
 Lastly this if for fun only so let's not take away human high score slots.
 
-
+---
+2k Score -- Perhaps could be better by adding crouch
+  
+![Screen Capture](https://a.jcbellc.com/images/github/dino_screen_capture.png)
 
 
 
