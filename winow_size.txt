@@ -1,0 +1,27 @@
+/*
+Javascript for the browser
+
+1) Open brower - I used Firefox
+2) Key F12 - Development console
+3) Copy and paste - window.opend code
+4) Run in browser console
+5) Make sure the new window is in the Top Right corner
+*/
+
+window.open("https://t-rex-game.com/", "", "width=700, height=700")
+
+/*
+New trex window
+Only use, if you need to adust the locations of the images
+
+1) Key F12 - Development console
+2) Copy and past code below
+3) Run
+4) Show mouse location
+
+*/
+
+$(".__wrapper").append('<div id="POS" style="color:red; font-weight:bold;"></div>')
+$(document).mousemove(function(event) {
+    $('#POS').html(event.pageX +" x "+ event.pageY);
+});
