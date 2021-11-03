@@ -24,6 +24,16 @@ Then type `jupyter lab`
 
 ---
 
+In your project folder add these folders
+
+```
+-> images
+-------> boxes
+-------> dino
+```
+
+---
+
 Most of the code should be self explantory. Here are some the may need explaining
 
 ```
