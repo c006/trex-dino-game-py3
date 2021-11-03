@@ -1,0 +1,1 @@
+cmd.exe %CD%\jupyter lab & pause
